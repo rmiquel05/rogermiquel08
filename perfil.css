@@ -1,0 +1,24 @@
+header{
+  background-color:rgb(20, 231, 210);
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  }
+table {
+  color: red;
+  text-align: center;
+    font-family: arial, sans-serif;
+    width: 50%;
+    border-style: solid;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
