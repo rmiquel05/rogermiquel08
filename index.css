@@ -18,3 +18,9 @@ body{
   font-size: 2rem;
   border-radius: 2rem;
 }
+header {
+  background-color:rgb(246, 208, 165);
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  }
